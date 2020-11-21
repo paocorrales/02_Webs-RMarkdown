@@ -1,0 +1,14 @@
+navbar:
+  title: Una web con muchos .Rmd!
+  left:
+  - text: Configuración
+    href: archivo-site.html
+  - text: Contenido
+    menu:
+      - text: El index
+        href: archivo-index.html
+      - text: Un post
+        href: post.html
+output:
+  html_document:
+    theme: united
