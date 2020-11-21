@@ -1,0 +1,19 @@
+---
+title: "¡Hola!"
+---
+
+## ¿De qué se trata esta página? 
+
+Esta página es un ejemplo de como generar páginas web organizadas usando RMarkdown. A diferencia de está otra [página](https://github.com/paocorrales/01_Webs-RMarkdown), lo que vez acá está construido utilizando varios archivos RMarkdown y un archivo especial que permite configurar y agrupar todos los archivos de manera conjunta. 
+
+Cómo podés ver arriba, tiene una barra de navegación que te permitirá acceder a distintas secciones de la web para descubrir como está construida. Y por supuesto, esto que estás leyendo en este momento es parte del "index.Rmd" que ahora es la página principal del sitio.
+
+
+### Sobre estos materiales
+
+Esta mini página web es parte de una serie de ejemplos para aprender a compartir materiales usando RMarkdown. 
+Todos los materiales se encuentran bajo la licencia <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES">Creative Commons Attribution-ShareAlike 4.0 International License</a>, esto significa que podés utilizarlos de la manera que te guste siempre que menciones su origen. 
+
+El código fuente y materiales asociados se encuentra [acá](https://github.com/paocorrales/02_Webs-RMarkdown).
+
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
